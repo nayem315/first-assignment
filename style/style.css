@@ -1,0 +1,36 @@
+
+
+/* style-nav */
+.style-nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 10px;
+}
+
+/* .button{ */!--parina--!
+    font-size: small;
+    font-weight: 300;
+    color: blueviolet;
+}
+nav ul li{
+    list-style: none;
+}
+/* style margin */
+.style margin{
+    margin:0 20 0 20;
+}
+/* font-style */
+#font-style{
+    color:blue;
+    font-size: large;
+    font-weight: 700;
+}
+/* style small */
+#style small{
+    color: rgb(255, 240, 243);
+    font-size: smaller;
+}
+.father{
+    list-style: none;
+    margin-right: 20px;
+}
